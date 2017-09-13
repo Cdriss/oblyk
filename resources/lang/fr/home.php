@@ -2,7 +2,7 @@
 
 return [
 
-    'slogan' => 'Site communautaire dédié à l\'escalade',
+    'slogan' => 'Suuuuuuuppeeeeeerr Cédric !',
 
     //****************************
     //Check les infos des falaises
@@ -19,8 +19,8 @@ return [
 
     'titleCrossBook' => 'Tiens un carnet de croix',
     'descriptionCrossBook' => '
-        Bon pour la mémoire, la progression et la motivation, tenir un carnet de croix à beaucoup d\'avantage.<br>
-        Oblyk te permet de facilement faire ça, tu pourras ensuite visualiser ta progression grâce à de nombres façon d\'analyser et afficher ton carnet de croix
+        Bon pour la mémoire, la progression et la motivation, tenir un carnet de croix à beaucoup d\'avantages.<br>
+        Oblyk te permet de le faire facilement, tu pourras ensuite visualiser ta progression grâce à de nombreuses façons d\'analyser et d\'afficher ton carnet de croix
     ',
 
 
@@ -30,8 +30,8 @@ return [
 
     'titlePartner' => 'Trouve un partenaire de grimpe',
     'descriptionPartner' => '
-        Tu arrive dans une nouvelle regions, tu aimerais trouver quelqu\'un avec qui grimper en falaise ou en salle ?<br>
-        Regarde du côter de notre carte des grimpeurs, peut-être que tu trouveras quelqu\'un avec qui grimper.
+        Tu arrives dans une nouvelle région, tu aimerais trouver quelqu\'un avec qui grimper en falaise ou en salle ?<br>
+        Regarde du côté de notre carte des grimpeurs, peut-être que tu trouveras quelqu\'un avec qui grimper.
     ',
     'actionPartner' => 'En savoir plus',
 
@@ -42,9 +42,9 @@ return [
 
     'titleNewsFeed' => 'Reste au courant',
     'descriptionNewsFeed' => '
-        Oblyk intégre un système de fil d\'acualité simple qui te permet d\'être au courant de l\'activité des falaises autour de chez toi.<br>
+        Oblyk intégre un système de fil d\'actualité simple qui te permet d\'être au courant de l\'activité des falaises autour de chez toi.<br>
         Par exemple s\'il y a une mission "Nettoyage Printanier", l\'organisateur post dans le flux de la falaise et hop !
-        tous les intéréssés sont au courant et peuvent venir aider.
+        tous les intéressés sont au courant et peuvent venir aider.
     ',
 
 
